@@ -1,0 +1,9 @@
+✅ Variables de entorno cargadas y validadas exitosamente.
+--- TESTING CREDENTIALS ---
+[18:10:27 UTC] [32mINFO[39m: [36mNew Drizzle instance created for Turso[39m
+    [35menv[39m: "development"
+User noreply@tuprofedeia.com.co NOT FOUND
+Email: john.paez@tuprofedeia.com.co, Password: "JacN6WImR8KUq5Wp", Match: false
+Email: john.paez@tuprofedeia.com.co, Password: "admin123", Match: false
+Email: john.paez@tuprofedeia.com.co, Password: "app123", Match: false
+---------------------------

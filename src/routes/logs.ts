@@ -1,0 +1,1 @@
+[{ "elysia": "import { LogController" }, { "../middleware/auth": "import { roles" }, { "prefix": "/api/logs" }, { "error": "any) {\n      set.status = 500;\n      return { message: error.message || 'Internal server error'" }, { "beforeHandle": ["authenticateToken(), authorizeRoles(roles.ADMIN)]\n  });"] }]

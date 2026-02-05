@@ -1,0 +1,11 @@
+✅ Variables de entorno cargadas y validadas exitosamente.
+[18:06:48 UTC] [32mINFO[39m: [36mNew Drizzle instance created for Turso[39m
+    [35menv[39m: "development"
+--- USERS IN DATABASE ---
+ID: 2, Email: "john.paez@tuprofedeia.com.co", Name: John Paez, Role: admin
+ID: 20, Email: "johpaz252@gmail.com", Name: John Paez, Role: client
+ID: 21, Email: "diego.perez@logisticamercantil.com", Name: Diego Perez, Role: client
+ID: 22, Email: "cristian.gomez@logisticamercantil.com", Name: Cristian Gomez, Role: client
+ID: 24, Email: "tribuiachile@gmail.com", Name: Felipe Pacheco, Role: client
+ID: 25, Email: "tuprofeiajohpazdev@gmail.com", Name: John Paez, Role: client
+-------------------------

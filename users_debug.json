@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "email": "john.paez@tuprofedeia.com.co",
+    "name": "John Paez",
+    "role": "admin"
+  },
+  {
+    "id": 20,
+    "email": "johpaz252@gmail.com",
+    "name": "John Paez",
+    "role": "client"
+  },
+  {
+    "id": 21,
+    "email": "diego.perez@logisticamercantil.com",
+    "name": "Diego Perez",
+    "role": "client"
+  },
+  {
+    "id": 22,
+    "email": "cristian.gomez@logisticamercantil.com",
+    "name": "Cristian Gomez",
+    "role": "client"
+  },
+  {
+    "id": 24,
+    "email": "tribuiachile@gmail.com",
+    "name": "Felipe Pacheco",
+    "role": "client"
+  },
+  {
+    "id": 25,
+    "email": "tuprofeiajohpazdev@gmail.com",
+    "name": "John Paez",
+    "role": "client"
+  },
+  {
+    "id": 36,
+    "email": "noreply@tuprofedeia.com.co",
+    "name": "System Admin",
+    "role": "admin"
+  }
+]
